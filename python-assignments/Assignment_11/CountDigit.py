@@ -5,7 +5,7 @@ def CountDigit(No):
 
 
 def main():
-    No = 725144
+    No = 7251
     result = CountDigit(No)
     print(result)
 
